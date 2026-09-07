@@ -7,7 +7,7 @@ proj = FastAPI(title="AI Event Assistant -2")
 
 events_db: List[Event] = [
     Event(
-        id=1,
+        id=11,
         title="AI Bootcamp",
         date="2025-10-24",
         organizer="Tech Club",
