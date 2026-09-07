@@ -3,7 +3,7 @@ from typing import List
 from models import Event
 from datetime import date
 
-proj = FastAPI(title="AI Event Assistant 2")
+proj = FastAPI(title="AI Event Assistant -2")
 
 events_db: List[Event] = [
     Event(
